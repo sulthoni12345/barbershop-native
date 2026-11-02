@@ -1,0 +1,19 @@
+# Pengaturan lokal dan rahasia: JANGAN pernah di-commit
+includes/config.local.php
+.env
+.env.*
+
+# Log dan berkas sementara
+*.log
+*.tmp
+*.bak
+
+# Editor dan sistem operasi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arsip hasil unduhan / backup
+*.zip
