@@ -11,7 +11,7 @@ declare(strict_types=1);
 
 <footer class="site-footer">
     <div class="container">
-        <p>&copy; <?= e(date('Y')) ?> <?= e(config('app_name')) ?>. Seluruh hak cipta dilindungi.</p>
+        <p>&copy; <?= e(date('Y')) ?> <?= e(config('app_name')) ?>. Deployed on Azure, Seluruh hak cipta dilindungi.</p>
     </div>
 </footer>
 </body>
